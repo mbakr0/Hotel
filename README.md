@@ -1,2 +1,4 @@
 # Hotel
-Hotel Single Page
+Hotel Single Page website with HTML, CSS and Javescript
+
+https://mbakr0.github.io/Hotel/
